@@ -1,1 +1,1 @@
-# Ukol do UDITE.
+# Ukol do UDITE. Ahoj světe!
