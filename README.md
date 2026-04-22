@@ -1,1 +1,1 @@
-# muj-prvni-repozitar
+# Ukol do UDITE.
