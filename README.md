@@ -1,1 +1,1 @@
-# Ukol do UDITE. Ahoj světe!
+# Ukol do UDITE. Ahoj světe!, VS nový text
